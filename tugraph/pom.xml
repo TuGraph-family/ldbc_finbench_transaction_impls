@@ -210,7 +210,6 @@
                         <configuration>
                             <protocArtifact>com.google.protobuf:protoc:3.21.1</protocArtifact>
                             <addSources>none</addSources>
-                            <includeStdTypes>true</includeStdTypes>
                             <outputDirectory>src/main/java</outputDirectory>
                             <inputDirectories>
                                 <include>src/main/proto</include>
